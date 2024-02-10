@@ -1,10 +1,16 @@
 # Demo Library
 A curated collection of Fireproof demos and dev kits
 
-*Have you got a cool Fireproof demo? Submit a pull request to list it here!*
+*Got a cool Fireproof demo? Submit a pull request to list it here!*
+
+## [Auto Epiphany](https://epiphany.fireproof.storage/)
+(both: click above to try it out, or [grab the repo](https://github.com/fireproof-storage/epiphany)
+- inspired by Steven G. Blank's well-known book, Four Steps to the Epiphany
+- create a set of AI personas and conduct simulated product interviews
+- [this video](https://twitter.com/FireproofStorge/status/1648541950843256832) shows how to use it
 
 ## [Transparent ToDos](https://fireproof.storage/try-free/)
-(live demo: click to try it out!)
+(live demo: click to try it out)
 - classic ToDoMVC demo, paired with a database browser
 - view, edit, or even create new documents, directly in Fireproof
 
@@ -17,11 +23,6 @@ A curated collection of Fireproof demos and dev kits
 (repo: clone this and run it locally or online)
 - create a simple todo list application from scratch
 - or use it as the foundation for your own app
-
-## [Auto Epiphany](https://github.com/fireproof-storage/epiphany)
-(repo: clone this and run it locally or online)
-- inspired by Steven G. Blank's well-known book, Four Steps to the Epiphany
-- creates a set of personas and simulates product interviews
 
 ## Fun with Friends (*coming soon!*)
 (repo: clone this and run it locally or online)
